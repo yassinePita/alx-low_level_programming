@@ -3,14 +3,14 @@
 /**
  * main - Entry point
  *
- * description: prints _putchar using putchar prototype
+ * Description: prints _putchar using putchar prototype
  *
- * return: Always 0 (Succcess)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	char str[] = "-putchar";
+	char str[] = "_putchar";
 	int ch;
 
 	for (ch = 0; ch < 8; ch++)
